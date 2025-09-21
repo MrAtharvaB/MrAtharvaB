@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning DSA **C Programming**
 
-- 👯 I’m looking to collaborate on IEEE **IEEE**
+- 👯 I’m looking to collaborate with **IEEE MCOE**
 
 - 💬 Ask me about I'M Engineer **MCOE**
 
