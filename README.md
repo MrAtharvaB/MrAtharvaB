@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Atharva Babhane</h1>
+<h1 align="center">Hi 👋, I'm Atharva </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently studying Data Science in **Probability and Statistics**
-
-- 🌱 I’m currently learning DSA **C Programming**
-
-- 👯 I’m looking to collaborate with **IEEE MCOE**
-
-- 💬 Ask me about I'M Engineer **MCOE**
-
+- 🔭 I’m currently studying Data Science
 - 📫 How to reach me Email **atharvastudy100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
