@@ -8,7 +8,7 @@
 </p>
 
 **Hacktoberfest 2025 :**
-[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
+[![An image of @mratharvab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratharvab)](https://holopin.io/@mratharvab)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrAtharvaB&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
