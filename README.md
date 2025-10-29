@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Atharva </h1>
-<h3 align="center">A passionate frontend developer from India</h3><br>
-<p align="left">
-- 🔭 I’m currently studying Data Science <br>
-- 📫 How to reach me Email atharvastudy100@gmail.com
-</p>
+<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **Data Science**
+- 📫 How to reach me **atharvastudy100@gmail.com**
 
 # **Hacktoberfest 2025 :**
 [![An image of @mratharvab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratharvab)](https://holopin.io/@mratharvab)
