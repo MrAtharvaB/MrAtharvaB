@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishbankai&label=Profile%20views&color=0e75b6&style=flat" alt="harishbankai" /> </p>
 - 🔭 I’m currently studying Data Science 
 - 📫 How to reach me Email **atharvastudy100@gmail.com**
-  <br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishbankai&label=Profile%20views&color=0e75b6&style=flat" alt="harishbankai" /> </p>
+  
 <p align="left">
 </p>
 
