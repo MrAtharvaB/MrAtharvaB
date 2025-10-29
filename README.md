@@ -13,9 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MrAtharvaB&theme=highcontrast&hide_border=false) <br/>
 [![](https://visitcount.itsvg.in/api?id=MrAtharvaB&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrAtharvaB&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva" /> </p>
-## 🏆 GitHub Trophies:
 
-[![](https://visitcount.itsvg.in/api?id=MrAtharvaB&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=MrAtharvaB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
