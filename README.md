@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3><br>
 <p align="left">
 - 🔭 I’m currently studying Data Science <br>
-- 📫 How to reach me Email **atharvastudy100@gmail.com**
+- 📫 How to reach me Email atharvastudy100@gmail.com
 </p>
 
 # **Hacktoberfest 2025 :**
