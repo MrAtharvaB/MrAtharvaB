@@ -18,6 +18,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=MrAtharvaB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
+<br><p align="left">
+  <img src="https://img.shields.io/badge/Profile%20Views-1000-0e75b6?style=flat" alt="Profile Views" />
+</p>
+</br>
 
