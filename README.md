@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrAtharvaB&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva" /> </p>
 
 - 🌱 I’m currently learning **Data Science** <br>
 - 📫 How to reach me **atharvastudy100@gmail.com**
