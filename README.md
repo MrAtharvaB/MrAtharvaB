@@ -7,7 +7,7 @@
 # **Hacktoberfest 2025 :**
 [![An image of @mratharvab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratharvab)](https://holopin.io/@mratharvab)
 
-# 📊 GitHub Stats
+# 📊 **GitHub Stats :**
 
 <div align="center">
 
