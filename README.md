@@ -9,14 +9,14 @@
 
 # 📊 **GitHub Stats :**
 <p align="center">
-  <img width="700" src="https://github-readme-stats.shion.dev/api?username=MrAtharvaB&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="500" src="https://github-readme-stats.shion.dev/api?username=MrAtharvaB&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://streak-stats.demolab.com/?user=MrAtharvaB&theme=github_dark&hide_border=false" />
+  <img width="500" src="https://streak-stats.demolab.com/?user=MrAtharvaB&theme=github_dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrAtharvaB&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="500" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrAtharvaB&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
