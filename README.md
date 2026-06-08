@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Data Science** <br>
-- 📫 How to reach me **atharvastudy100@gmail.com**
+<h3 align="center">Frontend Developer • Data Science Enthusiast • Open Source Contributor</h3>
 
-# **Hacktoberfest 2025 :**
-[![An image of @mratharvab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mratharvab)](https://holopin.io/@mratharvab)
+## 🚀 About Me
+
+- 🌱 Currently learning **Data Science**
+- 💻 Passionate about **Frontend Development**
+- 🤝 Interested in **Open Source Contributions**
+
+
+## 🏆 **Hacktoberfest 2025**
+
+<p align="center">
+  <a href="https://holopin.io/@mratharvab">
+    <img src="https://holopin.me/mratharvab" alt="Holopin Badges" />
+  </a>
+</p>
 
 # 📊 **GitHub Stats :**
 <p align="center">
@@ -19,4 +29,3 @@
 <p align="center">
   <img width="500" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrAtharvaB&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
