@@ -9,7 +9,7 @@
 - 🤝 Interested in **Open Source Contributions**
 
 
-## 🏆 **Hacktoberfest 2025**
+# 🏆 **Hacktoberfest 2025**
 
 <p align="center">
   <a href="https://holopin.io/@mratharvab">
