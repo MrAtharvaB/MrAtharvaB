@@ -8,14 +8,6 @@
 - 💻 Passionate about **Frontend Development**
 - 🤝 Interested in **Open Source Contributions**
 
-# 🏆 **Hacktoberfest 2026**
-<p align="center">
-  <a href="https://hacktoberfest.com/my/">
-    <img src="Hacktoberfest Completionist Badges.png" />
-  </a>
-</p>
-
-
 # 🏆 **Hacktoberfest 2025**
 
 <p align="center">
